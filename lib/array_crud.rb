@@ -7,7 +7,7 @@ array = ["a", "b", "c", "d"]
 end
 
 def add_element_to_end_of_array(array, element)
-  array.pop(element)
+  d_array=array.pop
   
 end
 
